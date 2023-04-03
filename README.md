@@ -1,0 +1,1 @@
+Acest proiect simuleaza o baza de date de tip Resurse Umane, in care am efectuat cateva instructiuni simple:creare/stergere de tabele, modificari ale structurii tabelelor, inserare inregistrari, selectii, filtre, functii agregate.
